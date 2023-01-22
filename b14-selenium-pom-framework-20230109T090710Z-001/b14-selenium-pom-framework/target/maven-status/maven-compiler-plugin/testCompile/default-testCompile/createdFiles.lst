@@ -1,0 +1,13 @@
+org\example\page_actions\Registration_Actions.class
+org\example\page_actions\Login_Actions.class
+org\example\stepDefinitions\HomeSteps.class
+org\example\page_elements\Home_Elements.class
+org\example\stepDefinitions\LoginSteps.class
+org\example\page_actions\Home_Actions.class
+org\example\stepDefinitions\RegistrationSteps.class
+org\example\page_elements\RegistrationComplete_Elements.class
+org\example\stepDefinitions\CommonSteps.class
+org\example\testRunner\TestRunner.class
+org\example\page_elements\Login_Elements.class
+org\example\page_actions\RegistrationComplete_Actions.class
+org\example\page_elements\Registration_Elements.class
